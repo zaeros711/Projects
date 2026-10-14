@@ -1,1 +1,4 @@
+Characterizing absorption and photoluminescence (PL) properties of Ti:Sapphire crystal samples to support a novel Ti:Sapphire integration process for tunable chip-scale lasers.
+Designed and coded a MATLAB automation script to control OSA sweep range, resolution, sensitivity, and averaging (400-1000 nm), enabling repeatable spectral acquisition and automated data logging across the full sample set.
+Identified Stokes-shifted absorption/emission behavior and determined the 0.45% Ti-doped sample as the strongest performer, directing future testing toward higher-doping-concentration crystals.
 
