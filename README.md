@@ -1,2 +1,2 @@
-# A collection of my projects and presentations from 2024 onward. This portfolio consists of astrophysics, aerospace, and photonics research. Everything I've worked on from hypersonics to laser optics. Enjoy! 
+# Hi, I'm Zion Smith and here's a collection of my projects and presentations from 2024 onward. This portfolio consists of astrophysics, aerospace, and photonics research. Everything I've worked on from hypersonics to laser optics. Enjoy! 
 # Please note because of the nature who and where I worked this is not an in depth repository of my work, it's more of a technical showcase. If you like to know more about any project please feel free to contact zions1411@gmail.com for any inquiries
